@@ -3,6 +3,8 @@ let numeroLimite = 50;
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
+// essa linha vai ser usada pra fazer um teste de código
+
 function exibirTextoNaTela(tag, texto) {
     let campo = document.querySelector(tag);
     if ('speechSynthesis' in window) {
