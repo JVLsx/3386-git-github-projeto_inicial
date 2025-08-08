@@ -1,4 +1,4 @@
-#Projeto sobre o número secreto do curso da Alura
+
 
 
 <img width="1493" height="386" alt="Captura de Tela (358)" src="https://github.com/user-attachments/assets/9fd8dbe2-845e-4193-b07e-039b5b5eefd9" />
@@ -8,8 +8,8 @@
 </p>
 
  Índice 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
+ 
+
 * [Índice](#índice)
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Status do Projeto](#status-do-Projeto)
@@ -23,4 +23,5 @@
 
 <p align= center>
 <h1>Descrição do projeto </h1>
+O projeto realizado é para fins estudantis adquirido pelo curso da Alura com parceiria com a Oracle One, o projeto se trata de adivinhar de um número secreto gerado "aleatoriamente" pela máquina.
 </p>
